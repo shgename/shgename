@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋 This is Weihao liu
+
+- 🔭 I am a Ph.D. Student at Machine Learning and Statistical Data Analysis Lab, The University of Tokyo & Junior Research Associate (JRA) at RIKEN Center for Advanced Intelligence Project.
+- 🌱 My research interests focus on AI4Science and large language models (LLMs).
+
+- 
 
 <!--
 **shgename/shgename** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
